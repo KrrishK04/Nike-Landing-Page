@@ -11,7 +11,7 @@ A modern, responsive e-commerce site showcasing Nike products. Built with React,
 
 ## ⚡ Demo
 
-**Live Site:** [(https://your-netlify-url.netlify.app)  ](https://nikekk.netlify.app/)
+**Live Site:** [https://nikekk.netlify.app/](https://nikekk.netlify.app/)
 
 ## 📸 Screenshots
 
